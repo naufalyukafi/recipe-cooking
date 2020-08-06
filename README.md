@@ -4,8 +4,6 @@ Can you find recipe-meats
 
 ## What This Includes
 
-<hr>
-
 <ul>
     <li>ECMAScript 2015(ES6)</li>
     <li>Web Component</li>
@@ -15,8 +13,6 @@ Can you find recipe-meats
 </ul>
 
 ## Getting Started
-
-<hr>
 
 ### Requirement : Node Package Manager or Yarn
 
