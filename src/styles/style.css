@@ -1,0 +1,44 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.jumbotron {
+  height: 580px;
+}
+body {
+  font-family: sans-serif;
+}
+
+.meal-list {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+club-list {
+  display: block;
+  margin-top: 32px;
+  width: 100%;
+  padding: 16px;
+}
+about-bar {
+  text-align: center;
+}
+
+@media screen and (min-width: 760px) {
+  .text {
+    margin: 0 auto;
+    animation: type 6s steps(24);
+    overflow: hidden;
+    white-space: nowrap;
+    animation-iteration-count: infinite;
+  }
+  @keyframes type {
+    0% {
+      width: 0ch;
+    }
+    100% {
+      width: 20ch;
+    }
+  }
+}
