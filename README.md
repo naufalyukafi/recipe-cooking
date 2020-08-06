@@ -14,25 +14,39 @@ Can you find recipe-meats
 
 ## Getting Started
 
-### Requirement : Node Package Manager or Yarn
+### Requirement :
+
+<ul>
+<li>Node Package Manager or Yarn</li>
+<li>Visual Studio Code</li>
+</ul>
 
 ### Quick Start
 
 <ul>
 <li>Open your favorite terminal</li>
+
 <li> Clone this project
 
 ```
-    git clone https://github.com/naufalyukafi/recipe-cooking.git
+git clone https://github.com/naufalyukafi/recipe-cooking.git
 ```
 
-<li>Instal package this project</li>
+<li>Go to directori project</li>
 
 ```
-    git install
+cd recipe-cooking
 ```
 
-<li>Then run this project</li>
+<li>Instal package</li>
+
+```
+git install
+```
+
+<li>Open text editor visual studio code</li>
+
+<li>Then run this project in your terminal editor</li>
 
 ```
     npm run start-dev
